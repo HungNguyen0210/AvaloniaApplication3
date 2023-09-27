@@ -13,6 +13,7 @@
     <StackPanel>
       <CheckBox Margin="4">Walk the dog</CheckBox>
       <CheckBox Margin="4">Buy some milk</CheckBox>
+	  <CheckBox Margin="4">Buy some meat</CheckBox>
     </StackPanel>
   </DockPanel>
 </UserControl>
